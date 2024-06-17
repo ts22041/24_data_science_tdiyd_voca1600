@@ -2,6 +2,7 @@ firebase_admin
 Pyrebase4
 pandas
 seaborn
+streamlit
 matplotlib
 streamlit_option_menu
 plotly
